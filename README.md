@@ -4,7 +4,7 @@
   - 📚  Estudando desenvolvimento WEB FullStack
   - 📫 Contate-me no e-mail: wesf.dev@gmail.com 
   - 😄 Pronouns: ele/dele
-  - 🧿 Idade: 22
+  - 🧿 Age: 22
 <br>
 <hr>
 <br>
