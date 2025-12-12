@@ -9,6 +9,8 @@
 
 ## 🛠️ My Tools
 
+<div align="center">
+
 ![HTML](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -24,5 +26,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB0000?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
