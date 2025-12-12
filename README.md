@@ -1,9 +1,9 @@
 ## 👋 About
 
-<span style="color:#4DD0E1">• Currently living in Brazil</span>  
-<span style="color:#FF7043">• 23 years old</span>  
-<span style="color:#81C784">• Fullstack developer, always learning and improving</span>  
-<span style="color:#BA68C8">• Focused on Python, Django, JavaScript, React, Next.js, and NestJS</span>
+<span style="background-color:#4DD0E1">• Currently living in Brazil</span>  
+<span style="background-color:#FF7043">• 23 years old</span>  
+<span style="background-color:#81C784">• Fullstack developer, always learning and improving</span>  
+<span style="background-color:#BA68C8">• Focused on Python, Django, JavaScript, React, Next.js, and NestJS</span>
 
 
 ---
