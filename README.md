@@ -44,16 +44,26 @@
 </p>
 
 
-# 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=WesFreire&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WesFreire&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=WesFreire&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=WesFreire&theme=dark&hide_border=false" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesFreire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesFreire&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
 
+<hr />
 
----
-[![](https://visitcount.itsvg.in/api?id=WesFreire&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=WesFreire&icon=0&color=0" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
