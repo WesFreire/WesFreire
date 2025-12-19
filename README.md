@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/wellyson-freire-341866364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://github.com/WesFreire/NOME_DO_REPO/raw/main/Curriculo-Wellyson-Freire.pdf](https://github.com/WesFreire/WesFreire/blob/main/wellyson_freire.pdf)" target="_blank">
+  <a href="https://github.com/WesFreire/WesFreire/blob/main/wellyson_freire.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-PDF-red?logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 
