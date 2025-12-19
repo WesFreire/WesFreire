@@ -1,15 +1,17 @@
 
 ## 🌐 Socials:
 <p align="center">
+  
   <a href="https://instagram.com/wellysonfreire" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wellyson-freire-341866364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:wesf.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="[https://github.com/WesFreire/NOME_DO_REPO/raw/main/Curriculo-Wellyson-Freire.pdf](https://github.com/WesFreire/WesFreire/blob/main/wellyson_freire.pdf)" target="_blank">
+    <img src="https://img.shields.io/badge/CV-PDF-red?logo=adobe-acrobat-reader&logoColor=white" />
   </a>
+
 
 </p>
 
