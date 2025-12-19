@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/wellyson-freire-341866364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:wesf.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 
